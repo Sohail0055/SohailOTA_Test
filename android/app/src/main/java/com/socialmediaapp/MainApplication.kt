@@ -1,4 +1,4 @@
-package com.socialmediaapp
+package com.RevalConnect
 
 import android.app.Application
 import com.facebook.react.PackageList

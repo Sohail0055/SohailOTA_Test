@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "SocialMediaApp.app"
-               BlueprintName = "SocialMediaApp"
-               ReferencedContainer = "container:SocialMediaApp.xcodeproj">
+               BuildableName = "RevalConnect.app"
+               BlueprintName = "RevalConnect"
+               ReferencedContainer = "container:RevalConnect.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "SocialMediaAppTests.xctest"
-               BlueprintName = "SocialMediaAppTests"
-               ReferencedContainer = "container:SocialMediaApp.xcodeproj">
+               BuildableName = "RevalConnectTests.xctest"
+               BlueprintName = "RevalConnectTests"
+               ReferencedContainer = "container:RevalConnect.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "SocialMediaApp.app"
-            BlueprintName = "SocialMediaApp"
-            ReferencedContainer = "container:SocialMediaApp.xcodeproj">
+            BuildableName = "RevalConnect.app"
+            BlueprintName = "RevalConnect"
+            ReferencedContainer = "container:RevalConnect.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "SocialMediaApp.app"
-            BlueprintName = "SocialMediaApp"
-            ReferencedContainer = "container:SocialMediaApp.xcodeproj">
+            BuildableName = "RevalConnect.app"
+            BlueprintName = "RevalConnect"
+            ReferencedContainer = "container:RevalConnect.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
